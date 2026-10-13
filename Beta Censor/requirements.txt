@@ -1,0 +1,6 @@
+PyQt6>=6.6
+numpy>=1.26
+opencv-python-headless>=4.8
+mss>=9.0
+nudenet>=3.4
+onnxruntime>=1.17

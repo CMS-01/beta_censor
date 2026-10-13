@@ -1,0 +1,18 @@
+{
+  "parts": {
+    "seins": true,
+    "entrejambe": true,
+    "fesses": false,
+    "ventre": false,
+    "aisselles": false,
+    "pieds": false
+  },
+  "parts_on": true,
+  "level": 2,
+  "style": "pixel",
+  "preset": "high",
+  "aggressiveness": 30,
+  "padding": 0.34,
+  "bnwo": false,
+  "accepted_18": true
+}
